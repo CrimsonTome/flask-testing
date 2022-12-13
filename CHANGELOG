@@ -1,4 +1,10 @@
-Commit: c375098
+Commit: af1bc31
+Author: Rowan Clark
+Tue Dec 13 08:51:42 2022
+Commit subject: 
+chore: rm ref to stable commit from boilerplate
+
+Commit: eec56fc
 Author: Rowan Clark
 Tue Dec 13 08:50:00 2022
 Commit subject: 
