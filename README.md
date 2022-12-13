@@ -22,7 +22,7 @@
 ## Changelog
 
 - generate the changelog with `./changelog` or `bash /path/to/changelog`
-- See the [Changelog](/CHANGELOG.md)
+- See the [Changelog](/CHANGELOG)
 
 ## Credits and License
 
