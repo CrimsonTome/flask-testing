@@ -1,0 +1,18 @@
+Commit: c375098
+Author: Rowan Clark
+Tue Dec 13 08:50:00 2022
+Commit subject: 
+chore: add chanegelog
+
+Commit: b52ca1d
+Author: Rowan Clark
+Tue Dec 13 08:49:03 2022
+Commit subject: 
+chore: add license and readme
+
+Commit: d36dcfa
+Author: Rowan Clark
+Tue Dec 13 08:40:07 2022
+Commit subject: 
+chore: init repo, flask app with basic login
+
